@@ -28,19 +28,19 @@ All tasks are saved in a plain text file (`tasks.txt`) for persistence between s
 ## 📷 Output
 
 ### Menu
-![Menu Screenshot](images/menu.png)
+![Menu Screenshot](images/menu.PNG)
 
 ### Adding a Task
-![Add Task Screenshot](images/add_task.png)
+![Add Task Screenshot](images/add_task.PNG)
 
 ### Viewing Tasks
-![View Tasks Screenshot](images/view_tasks.png)
+![View Tasks Screenshot](images/view_tasks.PNG)
 
 ### Marking a Task as Done
-![Mark Done Screenshot](images/mark_done.png)
+![Mark Done Screenshot](images/mark_done.PNG)
 
 ### Removing a Task
-![Remove Task Screenshot](images/remove_task.png)
+![Remove Task Screenshot](images/remove_task.PNG)
 
 ---
 
